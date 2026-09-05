@@ -1,6 +1,6 @@
 # AI-ASL-Translater
 
-This project uses a deep learning model to recognize American Sign Language (ASL) hand signs from webcam images or uploaded images. The model uses transfer learning with MobileNetV2 to classify hand signs and provides the prediction with a confidence score and text-to-speech output.
+This project uses a deep learning model to recognize American Sign Language (ASL) hand signs from webcam images or uploaded images. The model uses transfer learning with MobileNetV2 to classify hand signs and provides the prediction with a confidence score and text-to-speech output. This is a current prototype
 
 ## Features
 
